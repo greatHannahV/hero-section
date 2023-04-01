@@ -20,7 +20,10 @@ body{
 
 
 }
-.btn{
+.btn:hover{
+    background-color: rgb(18, 85, 62);
+
+
 }
 nav{
     font-size: 20px;
